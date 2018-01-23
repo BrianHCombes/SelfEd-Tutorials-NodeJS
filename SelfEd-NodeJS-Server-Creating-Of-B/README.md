@@ -1,4 +1,4 @@
-# SelfEd-Tutorials-NodeJS - A simple Server
+# NodeJS - A simple Server
 
 From the command line enter: **node main.js**
 
