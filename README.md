@@ -1,5 +1,5 @@
-# SelfEd-Tutorials-NodeJS - A simple Sever
+# SelfEd-Tutorials-NodeJS - A simple Server
 
-From the ommand line enter: node main.js
+From the command line enter: **node main.js**
 
 Note: Node module support required
